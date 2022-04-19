@@ -5,4 +5,5 @@ for i in range(a):
     if c >= 1:
         print(c)
     else:
-        print(int(0))
+        print(int(1))
+# Added comments
