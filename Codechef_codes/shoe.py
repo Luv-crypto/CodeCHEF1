@@ -5,3 +5,4 @@ for i in range(a):
         print(1)
     else:
         print(0)
+# optimised code
