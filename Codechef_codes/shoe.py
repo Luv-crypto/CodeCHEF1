@@ -4,5 +4,5 @@ for i in range(a):
     if (a1 + a2 + a3) <= 2 and a1 + a2 + a3 > 0:
         print(1)
     else:
-        print(0)
+        print(1)
 # optimised code
